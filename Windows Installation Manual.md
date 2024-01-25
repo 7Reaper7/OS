@@ -43,7 +43,7 @@ Now it should look something like this:
 ## Step 3: Boot from USB
 
 1. Restart your computer.
-2. Enter the boot meny key (different for different computers, f12 for me).
+2. Enter the boot menu key (different for different computers, f12 for me).
 3. Select the USB you had installed the boot in.
 ![Select USB](./images/bootMenu.png)
 
