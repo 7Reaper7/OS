@@ -20,7 +20,7 @@ We will be moving forward assuming that you have already followed the manual on 
      touch document
      ```
 
-     ![documentOption](.\images\documentOption.png)
+     ![documentOption](./images/documentOption.png)
 
      
 
@@ -28,7 +28,7 @@ We will be moving forward assuming that you have already followed the manual on 
 
    4. Select **New Document** and then **Text Document**.
 
-     ![optionAvailable](.\images\optionAvailable.png)
+     ![optionAvailable](./images/optionAvailable.png)
 
      
 
@@ -40,7 +40,7 @@ We will be moving forward assuming that you have already followed the manual on 
 
    1. **Create a new file** and rename it to **test.c**.
 
-   ![rename](.\images\rename.png)
+   ![rename](./images/rename.png)
 
      
    
@@ -59,7 +59,7 @@ We will be moving forward assuming that you have already followed the manual on 
      }
      ```
 
-     ![exampleCode](.\images\exampleCode.png)
+     ![exampleCode](./images/exampleCode.png)
 
      
 
@@ -77,7 +77,7 @@ We will be moving forward assuming that you have already followed the manual on 
      ./obj
      ```
 
-     ![runProgram](.\images\runProgram.png)
+     ![runProgram](./images/runProgram.png)
 
      
 
@@ -87,7 +87,7 @@ We will be moving forward assuming that you have already followed the manual on 
 
    2. **Create a new file** and rename it to **test.cpp**.
 
-     ![cppRename](.\images\cppRename.png)
+     ![cppRename](./images/cppRename.png)
 
      
    
@@ -122,7 +122,7 @@ We will be moving forward assuming that you have already followed the manual on 
      ./obj
      ```
 
-     ![runProgramC++](.\images\runProgramC++.png)
+     ![runProgramC++](./images/runProgramC++.png)
 
    ------
 
