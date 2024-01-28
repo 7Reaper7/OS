@@ -106,7 +106,7 @@ Before moving ahead **make sure you have internet access** and the virtual Ubunt
 
      
 
-     ![terminalGCC](.\images\terminalGCC.png)
+     ![terminalGCC](./images/terminalGCC.png)
 
      
 
@@ -114,7 +114,7 @@ Before moving ahead **make sure you have internet access** and the virtual Ubunt
 
    - If you have an internet connection the C compiler will start **downloading and installing** automatically.
 
-     ![installingGCC](.\images\installingGCC.png)
+     ![installingGCC](./images/installingGCC.png)
 
      
 
@@ -137,7 +137,7 @@ Before moving ahead **make sure you have internet access** and the virtual Ubunt
      g++ --version
      ```
 
-     ![check](.\images\check.png)
+     ![check](./images/check.png)
 
      ------
      
