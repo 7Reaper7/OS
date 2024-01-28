@@ -10,7 +10,7 @@
 
    - Download the version of VirtualBox that is **compatible** with your operating system (Windows, macOS, or Linux).
 
-     ![virtualBoxDownload](.\images\virtualBoxDownload.png)
+     ![virtualBoxDownload](./images/virtualBoxDownload.png)
 
      
 
