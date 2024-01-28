@@ -18,7 +18,7 @@
 
    - Run the installer, follow the on-screen instructions and wait for the installation to finish.
 
-     ![virtualBoxInstalling](.\images\virtualBoxInstalling.png)
+     ![virtualBoxInstalling](./images/virtualBoxInstalling.png)
 
      
 
@@ -26,7 +26,7 @@
 
    - Visit the [**Ubuntu website**](https://www.unbuntu.com) and download the latest **LTS version of Ubuntu**.
 
-     ![ubuntuSite](.\images\ubuntuSite.png)
+     ![ubuntuSite](./images/ubuntuSite.png)
 
      
 
@@ -36,25 +36,25 @@
 
    - **Name** your virtual machine, **choose the directory** you want to install it in and **select the iso file** that you have previously downloaded.
 
-     ![SelectISO](.\images\SelectISO.png)
+     ![SelectISO](./images/SelectISO.png)
 
      
 
    - check the "**Skip Unattended Installation**" box according to your requirements(the terminal that we will be needing later on during the installation of compilers **does not work sometimes if this is left unchecked**) and click next.
 
-     ![unattendedInstall](.\images\unattendedInstall.png)
+     ![unattendedInstall](./images/unattendedInstall.png)
 
      
 
    - Set the **memory size** and processors according to your system specifications and click next.
 
-     ![AllocateMemory](.\images\AllocateMemory.png)
+     ![AllocateMemory](./images/AllocateMemory.png)
 
      
 
    - Create a virtual hard disk and **allocate space** and click next.
 
-     ![AllocateDisk](.\images\AllocateDisk.png)
+     ![AllocateDisk](./images/AllocateDisk.png)
 
    - Finally click on **finish** to finish creating a virtual machine.
 
@@ -64,15 +64,15 @@
 
    - Now **start** the virtual machine.
 
-     ![startMachine](.\images\startMachine.png)
+     ![startMachine](./images/startMachine.png)
 
      
 
    - Select "**Try or Install Ubuntu**" and follow the on-screen instructions to install Ubuntu on the virtual machine.
 
-     ![commanPromptInstall](.\images\commanPromptInstall.png)
+     ![commanPromptInstall](./images/commanPromptInstall.png)
 
-     ![Opened](.\images\Opened.png)
+     ![Opened](./images/Opened.png)
 
      **Note:** if you had checked the "Skip Unattended Installation" box in the previous step you will have to install ubuntu **manually** otherwise it will open the desktop screen and start **downloading, installing and configuring files automatically**.
 
@@ -92,7 +92,7 @@ Before moving ahead **make sure you have internet access** and the virtual Ubunt
 
    - Or open the **Dock** and select the terminal icon.
 
-     ![dock](.\images\dock.png)
+     ![dock](./images/dock.png)
 
      
 
