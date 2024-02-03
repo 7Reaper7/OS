@@ -178,11 +178,11 @@
   gedit filename
   ```
 
-![22](C:\Users\Muhammad Aanish\Desktop\lab3\images\22-1706980964199-1.png)
+![22](./images/22.png)
 
 3. Change the permissions as required using the **binary representation**, **`( rwx r-x r--)`** for the current case.
 4. The steps are as following:
-     - In the three character combination of permissions per user, put **1** in place of each**`(r,w,x)`**and put **0** in place of each dash**`(-)`**
+     - In the three character combination of permissions per user, put **1** in place of each **`(r,w,x)`**and put **0** in place of each dash **`(-)`**
 
      - For the above case the combinations will be: **`( 111 101 100 )`**.
 
